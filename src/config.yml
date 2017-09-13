@@ -1,0 +1,11 @@
+database:
+    host: 'localhost'
+settings:
+    prefix: 'Pure'
+    network-name: 'My Network'
+    webstore: 'http://mynetwork.com/store'
+register:
+    register-link: 'http://mynetwork.com/login'
+anti-spambot:
+    enabled: true
+    account-limit: 3
